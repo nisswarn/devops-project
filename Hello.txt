@@ -2,4 +2,4 @@ SCCM
 Intune
 azure
 nisswarn is repository created in GITHUB
-git hub is confusing for new guys
+Azure has less share in the world.
