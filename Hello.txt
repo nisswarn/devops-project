@@ -2,4 +2,8 @@ SCCM
 Intune
 azure
 nisswarn is repository created in GITHUB
+<<<<<<< HEAD
 AWS has higher shares in th world.
+=======
+Azure has less share in the world.
+>>>>>>> 0cddd2bb286e4c172c0f42b3a829e349ca0b32f3
